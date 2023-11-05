@@ -1,0 +1,356 @@
+
+2
+EXPLANATORY NOTICES.
+EXPLANATORY NOTICES.
+Thermometrical Register.
+THE Thermometrical Register, showing the highest and lowest temperature of the
+corresponding month of the preceding year, has been resumed in the British Almanac
+this year at the request of numerous correspondents. These registers are copied from
+those made at the Royal Observatory, Greenwich. They show the highest and lowest
+ranges within each twenty-four hours, from self-registering thermometers. Each
+month is placed with its corresponding month, as affording the most ready and
+advantageous means of comparison, although by this arrangement the register of the
+last three months of 1870 follows the nine months of 1871, which are all that can be
+given up to the day of publication.
+Equation of Time.
+In this Almanac the calculations are all made for mean time (given by the clock),
+instead of apparent time (given by the sun-dial), which latter had been used up to the
+year 1833. It must be obvious that, for all practical purposes, mean time is the most
+useful; and to obtain it from apparent time, the columns in the Almanac headed
+“ Equation of Time" should be used. The column “Equation of Time" ought, for
+example, to be consulted when persons are desirous of setting their clock by a sun-dial.
+When clock after sun is written above the number of minutes and seconds opposite to the
+day, then the clock ought to be set so much slower than the sun-dial, and the contrary.
+Moonlight.
+The Moon's age is set down in days and the nearest tenths of days from the time of
+change. Thus it is New Moon on the 8th of April at Oh. 32m. morning, and there-
+fore at noon of that day she is 11h. 28m. old, which is set down as five-tenths. The
+fraction of the day of course continues the same throughout the lunation. See also
+the table showing the duration of moonlight on page 10.
+VARIATION OF THE COMPAss, or the declination of the magnetic or mariner's needle
+from the meridian or true north and south line at the undermentioned places in the
+United Kingdom, estimated for the year 1872.
+N.B.—The variation is westerly, that is, the magnetic pole is west of the true north
+pole, and is found to be decreasing in the United Kingdom about 9' annually.
+Scilly Islands, 22° 11'; Falmouth, 21° 53'; Plymouth, 21° 27'; Portland, 20° 41';
+Portsmouth, 20° 11'; Brighton, 19° 39'; Dover, 19° 4'; London, 19° 43'; Yarmouth,
+19° 16'; Sunderland, 21° 37'; Edinburgh, 23° 4'; Glasgow, 23° 51'; Liverpool, 22° 1';
+Pembroke, 22° 31'; Holyhead, 22° 56'; Dublin, 23° 58'; Belfast, 24° 16'; Galway,
+25° 26'; Cork, 24° 33'.
+AUXILIARY TABLE FOR FINDING THE TIME OF SUN-
+RISING AND SETTING.
+The time of Sunrise and Sunset in the British Almanac' is adapted to the parallel of
+Latitude in which London is situate-viz., 51° 30'.
+THE table, pages 3-4, has been constructed to show the variations of time through the
+United Kingdom-namely, between the latitude of 58° and 50° 10' N. The times of
+sun-rising and sun-setting are computed for the instant that the sun's centre is even
+with the horizon of the sea. The number of minutes found in this table under the
+month-day, and in the required latitude, are to be applied to the time of sun-rising
+and setting found on that day in the Almanac; the result will be the time of his
+rising and setting at the place required.--Ex. At what time will the sun fise and
+set on May 21 at Edinburgh? The times of sunrise and sunset on that day in the
+Almanac are 4h. lm. A.m., and 7h. 52m. P.M. In the table, in parallel of 56°, in which
+(p. 3) Edinburgh is found, and under May 21, are 23 minutes; which, subtracted from
+4h. Im., leaves 3h. 38m. for time of sunrise; and, added to 7h. 52m., gives 8h. 15m.
+for time of sun-setting. But at those places where instead of mean time at place* rail-
+way time is now used, which in Great Britain is Greenwich mean time, and in Ireland
+Dublin mean time, to the times of sun-rising and sun-setting, as deduced by the aux-
+iliary table, the longitude in time must be applied thus:-For places in Great Britain
+whose longitude is west of Greenwich, to the time of sunrise or sunset add the longi-
+tude in time, and to places whose longitude is east of Greenwich, subtract the longitude
+in time, the result will be the railway or Greenwich time that the sun rises or sets.
+N.B.-Longitude in arc, indicated by the signs /" (degrees, minutes, and seconds)
+is converted into longitude in time by reckoning 360° — 24 h., 15º =lh., and 1°= 4m.
+Example:-On June 21st at Penzance, in latitude 50° 7' N. and longitude 5° 31' W.,
+what will be the railway time that the sun rises and sets ?
+* See above, Explanatory Notices, Equation of Time.
+
+
+## p. 65 (#173) #############################################
+
+The Present State of Music in England. 65
+Such a national school as we desire to see established might fitly
+be formed out of the present Royal Academy, which with an en-
+larged income and an extended scheme of operations would
+be well able to undertake the work. Free education ought
+to be provided for a considerable number of pupils, inasmuch
+as experience proves that some of the most gifted musicians
+- are to be found among the lower ranks of society, and the fees
+payable by the other students ought to be very much lower than
+those now charged, while it would also be desirable to add a general
+educational establishment to the institution. In connection with
+it evening classes might be formed, and an orchestra might
+be permanently kept up for the trial of new works, thus offering
+to English composers an advantage the want of which has too
+long acted as a discouragement. Another important question is
+the
+best means of providing elementary training for the people,
+and especially the young in our large towns. The teaching of
+music in the parochial schools will do much to promote this result
+if, as we hope will be the case, sight-singing and not singing by
+ear is insisted on : but the adults and the young men and women
+still remain to be provided for. One point is very plain, that
+if musical education becomes general, there will in future be
+a better supply of competent teachers for the training of the
+children, and if the numerous school-rooms controlled by the
+local boards are made available for evening instruction, much
+may be done.
+Classes on the old notation and on the Tonic
+Sol-Fa system might be conducted on different evenings, and
+in nearly every case they would be found to be self-sup-
+porting, especially if concerts were given at intervals by the
+pupils. But while the poor are cared for, the higher classes
+must not be neglected. Music must be efficiently taught in all
+our large public and middle-class schools for boys; and in girls'
+schools, where the pianoforte has always formed a subject of in-
+struction, the system must be altered materially from that
+hitherto adopted. In the place of the dull mechanical drudgery
+which the pupil now passes through and which can only render
+her tolerably proficient as far as the mere digital exercise on the
+keyboard is concerned, music must be taught as other subjects
+are taught, and “the reason why” must form an element in
+the teaching In a word, the art and not the instrument
+must form the basis of the lesson, and the pupil in learning to
+play must also learn the language as well as the mere notes.
+The every-day conversation in our drawing rooms, and the style
+of music there supplied, prove that there is an immediate need
+of reform in this respect, and one of the most practical
+methods of imparting a knowledge of first principles is to bring
+up every child in the practice of sight-singing, as when this is satis-
+factorily and soundly taught, everything else will follow. Much
+also may be done by our composers, our concert-givers, and our
+artistes. Let them remember that they owe a duty to art as
+well as to their pockets, and as a good painter would decline to
+place his name on a carelessly executed picture which would
+
+
+## p. 66 (#174) #############################################
+
+66
+Industrial Results of Photography.
+tarnish his reputation, so let the song-writers, the conductors, and
+the vocalists remember that they have a very important duty to
+fulfil, and that they can to a great extent guide the public taste.
+It may be true, as we believe it is, that Englishmen lack in many
+cases that innate power of distinguishing the true from the false
+in music, which is such a striking characteristic of the Germans;
+but there is always a tendency to ascribe to natural inferiority
+that which ought more truly to be laid at the door of a defective
+system of training. Thoroughly convinced are we that a deep
+love for the art exists among the English people, and we look
+forward with hope to the day when it will be generally culti-
+vated by rich and poor. Its influence can only be for good, its
+practice can only tend to make men better Christians and better
+subjects, and he who wishes well to his country can adopt no
+surer method of promoting her true welfare than by aiding to
+the utmost of his power in this truly national work.
+CHARLES MACKESON.
+INDUSTRIAL RESULTS OF PHOTOGRAPHY.
+ALThough the now familiar art of Photography may, to some
+extent, be regarded as still in its infancy, its practical influence in
+the realms of manufacturing industry has proved the reverse of
+insignificant. Forty years ago, the process of taking pictures by
+means of the sun's rays was regarded as little better than a
+beautiful scientific experiment, too costly and difficult to possess
+any chance of being frequently repeated. At the present time
+it forms the regular occupation of some thousands of individuals,
+not only in this country, but also on the continent, in the United
+States, in Canada, and in Australia ; besides affording the means
+of employment to yet larger numbers engaged in the many branches
+of manufacturing industry, which the increasing practical appli-
+cations of photography are continually calling into active exist-
+It has been estimated that at the present moment the
+photographic art, either directly or indirectly, provides employ-
+ment for at least half a million persons in various parts of the
+world. There are no means of verifying the correctness of this
+estimate, but when we reflect on the enormous extent to which
+photography is practised in the United States alone, where every
+town has its photographic studio, not to mention those of the
+large cities, the calculation does not seem at all excessive.
+The real industrial value of photography dates from the dis-
+covery of the collodion process in 1850. This formed the actual
+starting point of the art. It rendered the taking of permanent
+pictures comparatively easy and cheap, and caused the Daguerreo-
+type and Talbotype to become things of the past. In the
+daguerreotype process, the portraits were taken upon plates of
+silver, or copper coated with silver. Despite their costly character
+a very considerable trade arose out of the demand for these
+ence.
+
+
+## p. 67 (#175) #############################################
+
+Industrial Results of Photography.
+67
+plates, and large numbers of persons were employed in silvering
+the surface of the copper, a process requiring great delicacy
+and care.
+But the leaden, death-like hue, peculiar to Daguerreo-
+type portraits, a defect which not even the employment of
+colours could wholly remove, caused a greater preference to be
+shown to the Talbotype, in which paper was used instead of silver.
+Moreover, while in the case of the Daguerreotype process the
+portraits were reversed, as in a looking-glass, those taken by
+Mr. Fox Talbot's method showed the object represented as it
+really appeared to the eye. This was effected by means of the
+picture being taken upon
+waxed paper, which showed the lights
+and shadows reversed. The picture thus obtained was called a
+negative. The waxed paper, or negative, was then laid upon
+another piece of prepared paper, and exposed to the action of
+light, which, passing through the transparent portions of the
+picture, caused them to become darkened on the second paper,
+the opaque portions remaining untouched. The new picture
+thus produced represented the lights and shadows as in nature,
+and was called a positive. The use of waxed paper for taking
+negatives has now become almost entirely superseded by the
+employment of glass, the surface of which is prepared especially
+for the purpose by one of the numerous existing modifications of
+the albumen, or collodion processes, according to the tastes or
+requirements of the photographer.
+În the earlier sun-pictures the want of permanency was fre-
+quently apparent. Not only were they costly, but they were no
+sooner taken than they began to fade. This was particularly
+noticeable in pictures produced by the Daguerreotype process,
+which frequently disappeared from the surface of the silvered plate,
+despite every precaution to protect it from injury. Nor were the
+Talbotype pictures much more successful. No reliance could be
+placed upon their stability. They might be almost perfect as
+pictures, but their permanency was always doubtful. They
+might endure for months, perhaps only for days ; but ultimately
+they were certain to fade. To overcome this serious obstacle
+long formed the great object of Mr. Fox Talbot and his fellow-
+labourers in the new art. The defect arose from the instability
+of the metallic salts employed, as explained by an experienced
+writer in the “Popular Science Review," who informs us that :-
+“The blacks of photographic prints on ordinary unsized paper
+consist of silver. To aid in the proper fixing of a photograph, or
+destroying its future sensitiveness to light, hyposulphate of soda
+in solution is employed. The action of this salt on the silver in
+the pores of the paper is of an extremely complex nature, and
+long washing is requisite to secure its removal. If not thoroughly
+removed, an action continues to be exerted which ultimately
+results in the destruction of the picture, the blacks of which are
+converted into a sulphide of silver. But the sulphurous gases
+with which the atmosphere is impregnated, joined with the
+complex effects produced by the albumen (with which photo-
+graphic paper is usully prepared), acting on the silver in a
+
+
+## p. 68 (#176) #############################################
+
+68
+Industrial Results of Photography.
+manner not yet clearly understood, exert a distructive influence
+on photography. The introduction of gold toning has mitigated
+this evil to a considerable extent; but an inspection of some
+recent pictorial productions of photographers of reputation
+suffices to show that it still exists, notwithstanding the known
+care taken by them to obviate it.”
+Still, the numerous improvements recently introduced into the
+various photographic processes have done much towards giving
+a permanent character to the productions of the camera.
+We
+have seen photographs, taken a few years ago, which seem as
+clear and fresh as when they originally left the manipulator's
+hands. Whether they will always remain so is a secret which
+time alone can reveal, but the degree of durability which can
+now be imparted to photographic pictures appears sufficient for
+all ordinary purposes. The photographic art proper is most
+largely employed in the production of cartes de visite and stereo-
+scopic views. Of the former, several millions are annually
+taken in this country alone. So great, indeed, is the number,
+that more than one Chancellor of the Exchequer is said to have
+considered the feasibility of materially adding to the National
+income, by means of a small impost on these productions of
+the photographer's studio. Who, in 1839, could have dreamed
+that the almost simultaneous discoveries of Fox Talbot and
+Daguerre would, within little more than a quarter of a century, not
+only have furnished the means of employment to many thousands
+of individuals, but also have suggested a new means of increas-
+ing the public revenue ?
+The popularity of the carte de visite arises from the singular
+clearness and sharply defined portrait characteristic of this
+description of photograph ; the small size of the picture employ-
+ing only the centre of the lens. Dr. Wynter furnishes* several
+interesting particulars respecting the demand for cartes de
+visite. He states that their sale is now scarcely a fourth of
+what it was when they first came into vogue. This, however,
+may be the case with the large metropolitan establishments,
+but in the provinces the rate of production appears to have
+suffered no decrease ; on the contrary, the number of portraits
+taken becomes larger each year. With regard to the sale of
+cartes de visite of public characters, Dr. Wynter informs us that
+it is still immense. Mr. Mayall, the well-known London Photo-
+graphic Artist, who has taken the portraits of nearly all the
+Royal Family, has received from Messrs. Marion, the photo-
+graphic picture dealers, upwards of £35,000 for cartes de visite of
+its various members. Indeed, the popularity of these portraits
+has been something wonderful. When it was known that the
+Princess Louise was to be wedded to the Marquis of Lorne, carte
+de visite portraits of the illustrious couple appeared, as if by
+magic, in all the photographic print shops throughout the king-
+dom, and speedily found their way to America and Australia.
+The London Stereoscopic Company sold many thousands of these
+* Supplement to 'Good Words,' March, 1869.
+
+
+## p. 69 (#177) #############################################
+
+Industrial Results of Photography.
+69
+"
+»
+cartes, the demand for which still exists. The portraits of
+favourite actresses command a very large sale, as do those of
+popular statesmen, but it is difficult-save in exceptional cases-
+to ascertain beforehand how far the carte of a new celebrity will
+find favour with the public.
+Stereoscopic views are prepared both on paper and glass, the
+latter, although the most expensive, being far superior, by
+reason of the delicacy and softness of the pictures which they
+afford in the stereoscope. Transparent paper views, richly
+coloured, also have a good sale, especially in France, where the
+manufacture of this description of picture seems to be better
+understood than in England. Stereoscopic views are divided
+into two classes. The first consists of representations of land-
+scapes, works of art, portraits, and so forth. The second class
+comprises what may be termed reproductions of living pictures,
+and illustrates the readiness with which the photographic art has
+been turned to account in furnishing new means of remunerative
+employment. Suppose, for instance, a stereoscopic view of “A
+Music Lesson is required. A scene is prepared, as if for a
+theatre; all the requisite accessories, such as pianoforte, chairs,
+carpets, &c., are introduced ; and the living characters, appro-
+priately attired, are carefully “posed.” The cost of getting up
+one such scene is sometimes very great, but the expense is
+generally covered by the sale of the pictures, as in the case of
+that known as “ Little Red Riding Hood," which became very
+popular. The preparation of the scenery for these stereoscopic
+pictures sometimes forms a distinct occupation of itself, but it is
+not so remunerative as it was a few years ago, when the stereo-
+scope was a novelty: Stereoscopic views of actual landscapes
+are always in demand. The list of these views is very extensive..
+All the leading accessible places on the continent, in Asia,
+Africa, America, and Australia, have found their way into the
+stereoscope. We see the pyramids of Egypt, the mosques of
+Constantinople, the rock temples of India, the Falls of Niagara,
+the forests of Canada, the goldfields of Australia, the glaciers of
+Switzerland, the ancient cities of Italy, the lochs of Scotland,
+and the glens of Ireland brought before our eyes, as they
+actually exist. It is nature itself, and thus the educational value
+of Professor Wheatstone's discovery cannot be over-estimated. A
+few stereoscopic views of scenes in Palestine afford us a more
+vivid idea of the Holy Land than could be obtained from listen-
+ing to half a dozen lectures. The stereoscopic views, or slides,
+as they are more familiarly termed, are usually sold uncoloured,
+save in the case of representations of living pictures; these
+latter—as a rule—requiring a little colour, for the purpose of
+heightening the effect. The slides are always uniform in size,
+measuring 7 by 31 inches, but in France an attempt was recently
+made to introduce a smaller description of slide measuring 4
+by 2 inches. The experiment, however, proved a failure.
+Photographic re-productions of celebrated pictures and en-
+gravings are extremely numerous, and are of every imaginable
+
+
