@@ -1627,9 +1627,9 @@ practised	O
 in	O
 France	B-GPE
 .	O
-Cotton	B-PRODUCT	B-FAC
+Cotton	B-PRODUCT
 
-mills	I-FAC
+mills	O
 have	O
 l	O
 >	O
@@ -1642,9 +1642,9 @@ period	O
 and	O
 
 the	O
-manufactures	B-ORG
-of	I-ORG
-Alsace	I-ORG	B-GPE
+manufactures	O
+of	O
+Alsace	B-GPE
 are	O
 now	O
 superior	O
@@ -3051,7 +3051,7 @@ king	O
 ,	O
 Charles	B-PERSON
 X	I-PERSON
-.	B-PERSON
+.	O
 ;	O
 his	O
 son	O

@@ -284,7 +284,7 @@ this	O
 ingenious	O
 author	O
 had	O
-knowledge	B-prod
+knowledge	O
 ,	O
 and	O
 be	O
@@ -782,8 +782,8 @@ similar	O
 we	O
 hope	O
 our	O
-Penny	B-prod
-Magazine	I-prod
+Penny	O
+Magazine	O
 will	O
 be	O
 to	O
@@ -1203,11 +1203,11 @@ of	I-PERSON
 Pembroke	I-PERSON
 ,	O
 in	O
-the	B-TIME
-reign	I-TIME
-of	I-TIME
-Henry	I-TIME	B-PERSON
-III	I-TIME	I-PERSON
+the	O
+reign	O
+of	O
+Henry	B-PERSON
+III	I-PERSON
 .	O
 In	O
 the	O
@@ -1835,7 +1835,7 @@ re	O
 pieces	O
 of	O
 broken	O
-brass	B-prod
+brass	O
 ,	O
 in	O
 token	O
@@ -2607,7 +2607,7 @@ colony	O
 "	O
 
 the	O
-Almanac	B-prod
+Almanac	O
 ,	O
 which	O
 may	O
@@ -3477,7 +3477,7 @@ advisers	O
 a	O
 statue	B-LAW
 of	I-LAW
-1608	I-LAW	B-DATE
+1608	I-LAW
 against	O
 the	O
 importation	O
@@ -3722,7 +3722,7 @@ deemed	O
 it	O
 own	O
 country	B-LOC
-,	B-LOC
+,	O
 and	O
 with	O
 that	O
@@ -4688,9 +4688,9 @@ stob	O
 ball	O
 ,	O
 in	O
-Tothill	O
--	O
-fields	O
+Tothill	B-LOC
+-	I-LOC
+fields	I-LOC
 .	O
 "	O
 

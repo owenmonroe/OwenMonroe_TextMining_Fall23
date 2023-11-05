@@ -2215,8 +2215,8 @@ cotton	B-PRODUCT
 factories	B-FAC
 
 and	O
-steel	B-PRODUCT	B-FAC
-works	O	I-FAC
+steel	B-PRODUCT
+works	O
 are	O
 introduced	O
 in	O

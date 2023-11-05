@@ -803,7 +803,7 @@ Seleuc	O
 
 Death	O
 of	O
-Alexander	B-PERSON	B-GPE
+Alexander	B-PERSON
 
 3	O
 d	O
@@ -3394,8 +3394,8 @@ numericai	O
 Copernicans	B-ORG
 .	O
 
-Peter	B-orgperson
-Ramus	I-orgperson
+Peter	O
+Ramus	O
 (	O
 1572	B-DATE
 )	O
@@ -3551,9 +3551,9 @@ censured	O
 
 by	O
 the	O
-University	B-FAC
-of	I-FAC
-Paris	I-FAC	B-ORG
+University	B-ORG
+of	I-ORG
+Paris	I-ORG
 in	O
 1543	B-DATE
 ,	O

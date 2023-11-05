@@ -2137,8 +2137,8 @@ for	O
 a	O
 Rosa	O
 ,	O
-a	B-WORK_OF_ART
-Rembrandt	I-WORK_OF_ART	B-PERSON
+a	O
+Rembrandt	B-PERSON
 ,	O
 a	O
 ing	O

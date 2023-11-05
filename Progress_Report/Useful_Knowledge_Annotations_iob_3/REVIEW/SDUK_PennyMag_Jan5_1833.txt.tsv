@@ -3886,20 +3886,20 @@ great	O
 country	O
 
 His	O
-bread	B-prod
+bread	O
 is	O
 made	O
 of	O
-milho	B-prod
+milho	O
 or	O
-Indian	B-prod
-corn	I-prod
-flour	I-prod
+Indian	O
+corn	O
+flour	O
 ;	O
 it	O
 is	O
 for	O
-wine	B-prod
+wine	O
 which	O
 is	O
 shipped	O
@@ -4197,9 +4197,9 @@ London	B-GPE
 1828	B-DATE
 .	O
 
-2	O
+2	B-CARDINAL
 
-2	O
+2	B-CARDINAL
 
 Is	O
 
@@ -4208,12 +4208,12 @@ Is	O
 
 S	O
 
-9	O
+9	B-CARDINAL
 
-1	O
+1	B-CARDINAL
 
 B	O
-2	O
+2	B-CARDINAL
 
 #	O
 #	O
